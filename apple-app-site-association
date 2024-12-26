@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3QWQAGHUVA.com.example.bebe-friends",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
